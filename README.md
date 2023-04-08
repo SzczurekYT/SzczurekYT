@@ -4,7 +4,7 @@ On the internet I'm known as Burzowy Szczurek, SzczurekYT, Sufcia. Im from Polan
 I'm a young dev, that loves playing minecraft and coding things realted to it.
 
 ## Skills
-Currentally I'm pretty good and Python and Java, but I'm also learning the Dart language and it's framework - Flutter.<br>
+Currentally I'm good at Python and Java, but I'm also learning the Dart language and it's framework - Flutter.<br>
 Python - how long it has been? I don't know but some time befora Java.<br>
 Java - startd using around VI 2021.<br>
 Dart - stared somewhere in 2021.<br>
