@@ -19,7 +19,7 @@
 <h3 align="left">🔧 Working on</h3>
 
 ###
-<p align="left"><a href="https://github.com/CrabCraftDev">CrabCraft</a> - Have you heared of Minecraft server reimplementations in Rust?<br>
+<p align="left"><a href="https://github.com/CrabCraftDev">CrabCraft</a> - Have you heard of Minecraft server reimplementations in Rust?<br>
   <a href="https://postmarketos.org/">postmarketOS</a> - Bringing Linux to mobile phones.
 </p>
 
